@@ -1,0 +1,27 @@
+.d-flex {
+  margin: 5% 0% 0% 0%;
+}
+.general {
+  background-color: #f45050;
+  padding: 2%;
+  border-radius: 20px;
+  max-width: 30%;
+  margin: 0% 1%;
+}
+
+.contact {
+  background-color: #3c486b;
+  border-radius: 20px;
+  padding: 2%;
+  max-width: 30%;
+  margin: 0% 1%;
+}
+
+li {
+  color: #f0f0f0;
+  list-style-type: none;
+}
+
+Button {
+  margin: 0px 0px 0px 30px;
+}
